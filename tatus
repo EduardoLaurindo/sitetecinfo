@@ -1,0 +1,35 @@
+[33mcommit e14ef15a0494902e531c5e0ad85f0d9c566f592a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Eduardo Laurindo <eduardo-laurindo-ferreira@evl.com.br>
+Date:   Tue Mar 22 19:42:21 2022 -0300
+
+    adicionei uma frase
+
+[33mcommit 389faf3e49814dc2ce4c8ee7fc1fe0c10564c10f[m
+Author: Eduardo Laurindo <eduardo-laurindo-ferreira@evl.com.br>
+Date:   Tue Mar 22 19:34:47 2022 -0300
+
+    adicionei uma frase
+
+[33mcommit 9297e470e59a776e3321c59b14354346576859df[m
+Author: Eduardo Laurindo <eduardo-laurindo-ferreira@evl.com.br>
+Date:   Thu Mar 17 21:05:07 2022 -0300
+
+    Adicionei principal.js
+
+[33mcommit 08b4b3383cebe3d21d42897e8b18ff99689c1571[m
+Author: Eduardo Laurindo <eduardo-laurindo-ferreira@evl.com.br>
+Date:   Thu Mar 17 21:02:38 2022 -0300
+
+    inserindo informacoes do menu 0 curso
+
+[33mcommit 09047ea7d9b93d6814cef502a32c4557b79c8bcf[m
+Author: Eduardo Laurindo <eduardo-laurindo-ferreira@evl.com.br>
+Date:   Thu Mar 17 20:49:34 2022 -0300
+
+    inserindo titulo e diminuindo tamanho da pagina
+
+[33mcommit 498d7c2951541f019c2b3c07f85ef9a5226bc5cd[m
+Author: Eduardo Laurindo <eduardo-laurindo-ferreira@evl.com.br>
+Date:   Thu Mar 17 20:18:04 2022 -0300
+
+    adicionei .gitignore
